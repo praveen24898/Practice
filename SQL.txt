@@ -14,7 +14,7 @@ Answer: A primary key is a unique identifier for a record in a database table. I
 5. What is a foreign key?
 Answer: A foreign key is a field in a database table that is used to establish a link between the data in two tables. It creates a relationship between the tables by referencing the primary key of another table.
 
-
+1234567890---------
 6. Explain the types of SQL commands.
 
 Answer: SQL commands can be broadly categorized into Data Definition Language (DDL), Data Manipulation Language (DML), Data Query Language
